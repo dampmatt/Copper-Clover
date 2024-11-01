@@ -62,6 +62,23 @@ body{
     display: flex;
 }
 
+#menu-list{
+    backdrop-filter: blur(10px);
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-top: 10vh;
+    gap: 40px;
+    color: #fff;
+    font-size: 2em;
+    ul{
+        font-size: 0.8em;
+        padding-left: 25vw;
+        font-weight: bolder;
+        list-style: none;
+    }
+}
+
 #home-body{
     display: none;
     display: block;
