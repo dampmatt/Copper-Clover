@@ -2,6 +2,8 @@
 # Copper & Clover Restaurant Website
 
 Welcome to Copper & Clover! This web page represents a fictional restaurant that offers a delightful dining experience with a variety of menu options, including starters, main courses, and desserts. The website is built with HTML, CSS, and JavaScript to create a visually engaging and interactive experience for users.
+Here is the live link for this website:
+https://dampmatt.github.io/Copper-Clover/
 
 # Table of Contents
 1. Project Structure
